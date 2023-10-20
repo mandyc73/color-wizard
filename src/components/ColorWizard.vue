@@ -351,18 +351,18 @@ const levels = offsets.map((offset, index) => ({
 }));
 
 const defaults = {
-  red: 360,
-  pink: 339,
-  grape: 288,
-  violet: 255,
+  red: 354,
+  pink: 320,
+  grape: 250,
+  violet: 240,
   indigo: 230,
-  blue: 208,
-  cyan: 188,
-  teal: 162,
-  green: 131,
-  lime: 85,
-  yellow: 39,
-  orange: 24,
+  blue: 209,
+  cyan: 192,
+  teal: 165,
+  green: 114,
+  lime: 50,
+  yellow: 40,
+  orange: 33,
   grey: 0,
 };
 
